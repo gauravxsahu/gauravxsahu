@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav sahu</h1>
 <h3 align="center">Full Stack Developer | DevOps Engineer | GenAI & Agentic AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="gauravxsahu" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="followers" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -101,6 +91,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
-</p>
