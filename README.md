@@ -20,7 +20,7 @@
 - 🔗 Currently learning **Blockchain Development**
 - 🌱 Always exploring new technologies and levelling up my skills
 - 💬 Ask me about **Web Dev, DevOps, GenAI, Agentic AI**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **sahugaurav3922@gmail.com**
 - ⚡ Fun fact: **I love automating everything!**
 
 ---
