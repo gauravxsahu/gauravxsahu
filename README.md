@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gaurav sahu</h1>
+<h1 align="center">Hi , I'm Gaurav sahu</h1>
 <h3 align="center">Full Stack Developer | DevOps Engineer | GenAI & Agentic AI Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+###   About Me
 - 💻 I'm a **Full Stack Developer** building end-to-end web applications
 - ⚙️ I work as a **DevOps Engineer** — CI/CD, automation, cloud infra
 - 🤖 Experienced in **GenAI & Agentic AI** — building intelligent, autonomous systems
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###   Tech Stack
 
 **Full Stack Development**
 <p align="left">
